@@ -1,0 +1,48 @@
+
+Project Proposal: Knowledge and Advice App
+
+Tech Stack:
+We plan to utilize a modern and versatile tech stack for our project. The recommended choice is React for the front-end and Node for the back-end. However, we are open to using Python/Flask if a developer is inclined towards Python.
+
+Focus:
+The project will be a full-stack application with an even focus on both front-end UI and back-end functionality.
+
+Platform:
+The application will be designed as a responsive website, ensuring accessibility across various devices.
+
+Project Goal:
+The primary goal of our project is to create a platform that provides advice, basic knowledge, and support for adolescents and individuals of any age range in various areas of everyday life. We aim to foster a community where users can seek guidance and share experiences.
+
+User Demographic:
+Our target users include adolescents and individuals of diverse age groups seeking advice and information on a wide range of topics. The platform will be inclusive and cater to users from various backgrounds.
+
+Data Plan:
+We plan to incorporate diverse data sources, potentially using APIs or creating our own API. The data should cover a broad spectrum of topics, including but not limited to education, personal development, mental health, and everyday life advice.
+
+Approach Outline:
+1. Database Schema:
+The database will include tables for users, posts, categories, and comments. User profiles will store relevant information, while posts will cover advice and knowledge-sharing.
+
+2. API Issues:
+We anticipate potential challenges with data quality if we create our own API or scrape data. We'll implement data cleaning processes to address this.
+
+3. Sensitive Information:
+User data privacy is a priority. We'll implement secure authentication and encryption to safeguard sensitive information.
+
+4. Functionality:
+The app will allow users to create profiles, post queries, provide advice, and engage in discussions. A voting system will highlight valuable advice. An intuitive search and categorization system will enhance user experience.
+
+5. User Flow:
+Users will register, create profiles, browse or search for topics of interest, post queries, and engage in discussions. The user interface will be designed for simplicity and ease of navigation.
+
+6. Additional Features and Stretch Goals:
+
+Implementing a recommendation engine for personalized advice.
+Integrating multimedia content, such as videos and infographics.
+Gamification elements to encourage user engagement.
+This project aims to create a supportive community by leveraging technology to provide valuable advice and knowledge for users navigating the challenges of everyday life.
+
+
+
+P.S: I was inspired by Reddit but also TikTok for this app because most adolescents or any other friends that I know use TikTok if they want to know which brand is on trend for the moment, which perfume to wear based on what they like but I wanted to create an app or website where people who already experience those things in life could give advice, where it could be like a diary advice.
+
